@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madsonps
 - 👀 I’m interested in learning IT 
-- 🌱 I’m currently learning how to code
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my projects and also of my friends for there
 
 
